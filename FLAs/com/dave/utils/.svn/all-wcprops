@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils
+END
+Preloader.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/Preloader.as
+END
+InactivityDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/InactivityDetector.as
+END
+Tracer.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/Tracer.as
+END
+DaveTimer.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/DaveTimer.as
+END
+BandwidthTester_Loader.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/BandwidthTester_Loader.as
+END
+ExternalAsset.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/ExternalAsset.as
+END
+CustomHTTPRequest.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/CustomHTTPRequest.as
+END
+HTTPPost.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/HTTPPost.as
+END
+SocialSharing.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/SocialSharing.as
+END
+Fps.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/Fps.as
+END
+JSON2Array.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/JSON2Array.as
+END
+BandwidthTester.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/BandwidthTester.as
+END
+BandwidthTester_URLLoader.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/BandwidthTester_URLLoader.as
+END
+XML2Object.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/XML2Object.as
+END
+GoogleMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/GoogleMap.as
+END
+DataTimer.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/as3csframework/!svn/ver/1/FLAs/com/dave/utils/DataTimer.as
+END
